@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 hello world - try-new-branch
+=======
+hello world - try_new_branch
+>>>>>>> try-new-branch
 
 hello world - new_branch2
 
